@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with **Figma**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/megha/OneDrive/Desktop/HTML/NAYAN%20MEGHA%20PHASE-2(INTERNSHIP)/MEGHA%20INTERNSHIP(BCA)/MMY%20PORTFOLIO.HTML%20(2)/MMY%20PORTFOLIO.HTML/RESUME.HTML](file:///C:/Users/megha/OneDrive/Desktop/HTML/NAYAN%20MEGHA%20PHASE-2(INTERNSHIP)/MEGHA%20INTERNSHIP(BCA)/MMY%20PORTFOLIO.HTML%20(2)/MMY%20PORTFOLIO.HTML/RESUME.HTML)
 
 - 💬 Ask me about **Figma**
 
@@ -19,8 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/megha-patel-450122232/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCaOeS0NlffdGa2NoNtfvGQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldk
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCaOeS0NlffdGa2NoNtfvGQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megha1104&show_icons=true&locale=en" alt="megha1104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megha1104&" alt="megha1104" /></p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=megha1104&limit=5&theme=flat&combine_all_yearly_contributions=true)
