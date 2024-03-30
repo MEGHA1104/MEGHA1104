@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Megha Patel and I'm a Shopify wesite designer from Wellvort Fashion Pvt.Ltd.</h2>
+<h2 align="left">Hi 👋! My name is Megha Patel and I'm a Shopify website designer from Wellvort Fashion Pvt.Ltd.</h2>
 
 ###
 
